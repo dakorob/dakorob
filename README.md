@@ -8,8 +8,7 @@ Fitness, Technology, Music, Gaming, Blockchain, Transhumanism, and the way all o
 I aim to leverage my knowledge and interest in these domains to inspire others and proliferate our free, open society.
 
 - 🌱 I’m currently learning ...
-Having recently completed Google's Data Analytic's Certificate, I am excited to express my knowledge and budding mastery of data analysis tools including...
-SQL, Excel, R Programming, Tableau, and Python
+Having recently completed Google's Data Analytic's Certificate, I am excited to express my knowledge and budding mastery of data analysis tools including SQL, Excel, R, Tableau, and Python!
 My Google Data Analytics Capstone projects are available at the following link:
 https://linktr.ee/dakorob
 
