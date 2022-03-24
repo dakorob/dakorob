@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dakorob
+- 👋 Hi, I’m @dakorob ... 
 Leveraging data to design robust, efficient systems is my passion! 
 From retail sales to personal training, I've seen how data can optimize decision-making throughout all aspects of business and lifestyle. 
 The understanding of emergent incentive structures, feedback loops, and relevant data models informs my role as a data analyst.
